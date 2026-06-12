@@ -1,0 +1,32 @@
+[
+    {
+        "activity": "Save electricity",
+        "category": "Energy Saving",
+        "time": "2025-10-12 19:15:49",
+        "points": 10
+    },
+    {
+        "activity": "Bottle",
+        "category": "Recycling",
+        "time": "2025-10-12 19:16:31",
+        "points": 5
+    },
+    {
+        "activity": "Turned off lights when not needed",
+        "category": "Energy Saving",
+        "time": "2025-10-13 08:33:41",
+        "points": 10
+    },
+    {
+        "activity": "Recycled 2 plastic bottles",
+        "category": "Recycling",
+        "time": "2025-10-13 08:34:19",
+        "points": 5
+    },
+    {
+        "activity": "Used bucket instead of shower",
+        "category": "Water Conservation",
+        "time": "2025-10-13 08:34:49",
+        "points": 8
+    }
+]
